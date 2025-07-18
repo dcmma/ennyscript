@@ -4,4 +4,12 @@ setclipboard("AKUNDISCO_KDAwa0K4GwyaKlWNaO0C")
 game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Script Key",
         Text = "Key Copied to Clipboard.",
+        Duration = 3
+    })
+task.wait(.5)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Steal-a-Brianrot/refs/heads/main/ArbixHubBEST.lua"))()
+game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "Script Key",
+        Text = "Arbix hub",
+        Duration = 3
     })
