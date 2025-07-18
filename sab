@@ -1,6 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AkunDiscoOfficial/WindUI-Fork/refs/heads/main/src/elements/newbrainrots.txt"))()
 task.wait(.5)
-setclipboard("key")
+setclipboard("AKUNDISCO_KDAwa0K4GwyaKlWNaO0C")
 game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Script Key",
         Text = "Key Copied to Clipboard.",
